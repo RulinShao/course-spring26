@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "CSE TBD: Course Title TBD"
-tagline: "CSE TBD at the University of Washington, Spring 2026"
-description: A course at the University of Washington.
+title: Natural Language Processing Capstone
+tagline: CSE 481N at the University of Washington, Spring 2026
+description: A project course in natural language processing.
 author: Pang Wei Koh
-baseurl: '' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/course-spring26' # the subpath of your site, e.g. /blog
+url: 'https://rulinshao.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -30,7 +30,9 @@ permalink: pretty
 aux_links:
   Pang Wei Koh:
     - 'https://koh.pw'
-footer_content:
+  UW NLP:
+    - 'https://nlp.washington.edu/'
+footer_content: "Natural Language Processing Capstone, CSE 481N, Spring 2026. University of Washington."
 
 # Collections for website data
 collections:

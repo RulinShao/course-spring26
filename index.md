@@ -1,16 +1,16 @@
 ---
 layout: home
-title: "CSE TBD: Course Title TBD"
+title: Natural Language Processing Capstone
 nav_exclude: true
 seo:
   type: Course
-  name: "CSE TBD: Course Title TBD"
+  name: Natural Language Processing Capstone
 ---
 
 # {{ site.tagline }}
 {: .mb-2 }
 {{ site.description }}
-{: .fs-6 .fw-300 }
+{: .fs-6 }
 
 {% if site.announcements %}
 {{ site.announcements.last }}
@@ -20,11 +20,12 @@ seo:
 ## Coordinates
 
 Class meets in person, Tuesdays and Thursdays, TBD time, TBD location. Office hours
-are by appointment; email the instructor directly.
+are by appointment; email the instructor or TA directly.
 
 ## Useful Links
 
-- Links TBD
+- Ed discussion board (link TBD) for registered participants
+- Form (link TBD) to privately and individually report on how things are going with your team at any point during the quarter
 
 
 ## Acknowledgments
