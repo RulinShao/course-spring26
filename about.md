@@ -19,7 +19,7 @@ description: >-
 ## Goals of the Course
 
 
-This class will provide students with an intensive 10-week experience in successfully completing a challenging, well-scoped research project on a topic related to natural language processing and its many applications.
+This class will provide students with an intensive 10-week experience in successfully completing a challenging, well-scoped research project on a topic related to machine learning and its many applications.
 
 Participants will work in small groups (approximately 3 people in each group) to hone their technical skills to quickly absorb and adapt new technical knowledge, gain experience in complex programming, perform thorough experiments and analysis, and learn how to find a path when faced with negative results.
 
@@ -27,13 +27,13 @@ Additional objectives of this class include:
 1.  technical communication skills to produce high quality interim technical reports that inspire insightful discussion across project groups,
 1.  advisory project experience to provide technical advice and constructive feedback to others, and
     project management skills to prioritize work items to maximize the chance for successful outcome.
-1.  Though not required, some project options in this class have a benefit to the larger community of NLP researchers and practitioners, through the generation of reproducibility reports and open-source artifacts.
+1.  Though not required, some project options in this class have a benefit to the larger community of ML researchers and practitioners, through the generation of reproducibility reports and open-source artifacts.
 
 
 ## Project Options
 
 There are two options for projects:
-1.  Reproducibility project ("option R"):  reproduce experiments in a recently published NLP paper.  Detailed instructions for this option will be provided.
+1.  Reproducibility project ("option R"):  reproduce experiments in a recently published ML paper.  Detailed instructions for this option will be provided.
 1.  Design your own ("option D").  Your team designs a project around something you are interested in.  The course staff will do our best to advise you directly or to connect you to local researchers with relevant expertise.  
 
 The [course calendar](../calendar) details the deadlines for the project's written reports.

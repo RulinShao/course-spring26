@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Natural Language Processing Capstone
+title: Machine Learning Capstone (CSE481M)
 nav_exclude: true
 seo:
   type: Course
-  name: Natural Language Processing Capstone
+  name: Machine Learning Capstone (CSE481M)
 ---
 
 # {{ site.tagline }}
@@ -24,10 +24,5 @@ are by appointment; email the instructor or TA directly.
 
 ## Useful Links
 
-- Ed discussion board (link TBD) for registered participants
+- [Ed discussion board](https://edstem.org/us/courses/96256/) for registered participants
 - Form (link TBD) to privately and individually report on how things are going with your team at any point during the quarter
-
-
-## Acknowledgments
-
-This site was built using [Kevin Lin](https://kevinl.info/about/)'s package [Just the Class](https://github.com/kevinlin1/just-the-class), which is built on [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
