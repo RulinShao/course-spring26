@@ -24,11 +24,9 @@ Additional objectives of this class include:
 1.  Though not required, some project options in this class have a benefit to the larger community of ML researchers and practitioners, through the generation of reproducibility reports and open-source artifacts.
 
 
-## Project Options
+## Project 
 
-There are two options for projects:
-1.  Reproducibility project ("option R"):  reproduce experiments in a recently published ML paper.  Detailed instructions for this option will be provided.
-1.  Design your own ("option D").  Your team designs a project around something you are interested in.  The course staff will do our best to advise you directly or to connect you to local researchers with relevant expertise.  
+Your team designs a project around something you are interested in.  The course staff will do our best to advise you directly or to connect you to local researchers with relevant expertise.  
 
 The [course calendar](../calendar) details the deadlines for the project's written reports.
 
@@ -39,15 +37,22 @@ In addition to the written reports, your team is expected to give four five-minu
 
 Students will be evaluated as follows:
 1.  Reports (ten at 4% each, shared by the team with the exception of reports #5 and #9 which are individual; extra 5% to project proposal and extra 5% to final report)
-1.  Five-minute updates (short talks given in lecture; four at 4% each, shared by the team)
-1.  Final poster presentation (14%)
-1.  Feedback to other teams' presentations (20%)
+2.  Five-minute updates (short talks given in lecture; three at 5% each, shared by the team)
+3.  Final poster presentation (15%)
+4.  Class participation and feedback to other teams, on Ed or during presentations (20%)
+
 
 Your team may use up to three penalty-free late days (total, not per report) for reports #4, #6, #7, and #8.  (No late days are allowed for reports #1-3, individual reports #5 and 9, or the final report #10).  Work turned in late after the late days are used up will get a zero grade.  Feedback to other teams' presentations will be tracked on presentation days.  Giving feedback to other teams' reports on Ed is also encouraged since it will lead to more informed questions in class.
 
 ## Hardware
 
 TBD - compute resources will be updated soon.
+
+## FAQ 
+
+Team size
+LM policy
+
 
 ## Access and Accommodations
 
