@@ -43,12 +43,13 @@
 
     >dt {
       @extend %module-item;
-      border-top: $border $border-color;
+      border-top: $border #bbb;
       font-weight: normal;
       text-align: right;
+      white-space: nowrap;
 
       +dd {
-        border-top: $border $border-color;
+        border-top: $border #bbb;
       }
 
       &:first-child {
