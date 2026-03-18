@@ -1,7 +1,7 @@
 ---
 name: Zhiyuan Zeng
 role: Teaching Assistant
-email: zhiyuan1zeng@gmail.com
+email: zyzeng@cs.washington.edu
 website: https://zhiyuan-zeng.github.io
 photo: zhiyuan.jpg
 ---

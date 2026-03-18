@@ -5,14 +5,8 @@ description: >-
     Course policies and information.
 ---
 
-# About
+# CSE 481M -- Machine Learning Capstone
 {:.no_toc}
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ---
 
