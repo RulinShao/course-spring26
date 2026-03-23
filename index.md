@@ -79,6 +79,7 @@ Your team may use up to three penalty-free late days (total, not per report) for
 
 The class and project participation grade will be computed as a function of (a) feedback to other teams' presentations; (b) giving feedback to other teams' reports on Ed; (c) and active, thoughtful participation in project discussions with course staff. 
 
+Overall grades will not be curved, so teams will not be compared to each other and it is possible for everyone to do well. Research is inherently unpredictable and the best ideas are risky ones, so it is ok if projects do not work out as planned. Teams that put in consistent effort and produce high-quality work throughout the course will get a good grade regardless.
 
 
 ## Compute
@@ -111,6 +112,9 @@ TBD - compute resources will be updated soon.
 
 **What are the cross-discussions with course staff in the schedule?** Each team will be assigned to one TA and will meet with them weekly throughout the class. During the cross-discussion sessions, teams will meet with the other TA to get a different perspective on their project.
 
+**Can I attend office hours for the TA who is not assigned to my team?** Yes, you may attend office hours for either TA. In addition, feel free to contact the instructor by email to schedule office hours.
+
 **I'm having issues with my team. What can I do?** Please bring this up with the course staff individually. You may contact us by private Ed post or email.
 
 **I would like to enroll in this class, but the class is full. Can I get an add code?** Add codes are managed centrally by the Allen School. To request an add code, please reach out to the [CS Advisors](https://www.cs.washington.edu/academics/ugrad/advising). If you aren't a CSE student, you will need to proceed through our [non-major registration process](https://www.cs.washington.edu/students/ugrad/non-major-registration). Unfortunately, due to capacity constraints, we are unlikely to have non-major positions open. Once the quarter officially starts, add codes might not be needed; check to see if you can enroll directly if any slots open up.
+
