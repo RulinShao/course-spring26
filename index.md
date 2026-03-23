@@ -84,14 +84,14 @@ Overall grades will not be curved, so teams will not be compared to each other a
 
 ## Compute
 
-Students are encouraged to use compute resources of their research labs if they are already part of one. 
-
-There are also several options for free compute that students can apply for themselves:
+Students are encouraged to apply for free cloud compute: 
 - **Google Cloud:** $300 in free credits for [new customers](https://cloud.google.com/free).
 - **Google Colab Pro:** Available for [higher education](https://blog.google/products-and-platforms/products/education/colab-higher-education/).
 - **Microsoft Azure:** $100 of credits for [students](https://azure.microsoft.com/en-us/free/students).
 
-The course staff also have a limited amount of Google Cloud credits, which will be distributed at the end of the second week.
+In addition, students may use other external compute resources that they have access to (e.g., from their research labs if they are part of one). 
+
+We will distribute a small amount of additional Google Cloud credits at the end of the second week. 
 
 
 ## Other course policies
