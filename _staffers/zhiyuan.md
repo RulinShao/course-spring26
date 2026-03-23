@@ -6,4 +6,4 @@ website: https://zhiyuan-zeng.github.io
 photo: zhiyuan.jpg
 ---
 
-Office hours: TBD
+Office hours: Mon 2:00-3:00pm
