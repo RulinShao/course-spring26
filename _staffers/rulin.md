@@ -6,4 +6,4 @@ website: https://rulinshao.github.io
 photo: rulin.jpg
 ---
 
-Office hours: Fri 4:00-5:00pm
+Office hours: Fri 4:00-5:00pm @ CSE2 230
