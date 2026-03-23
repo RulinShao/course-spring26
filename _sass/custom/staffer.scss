@@ -1,13 +1,20 @@
+.staffer-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $sp-4;
+}
+
 .staffer {
   display: flex;
-  margin: $sp-4 0;
+  margin: $sp-2 0;
 
   .staffer-image {
     border-radius: 50%;
-    height: 150px;
-    width: 150px;
+    height: 120px;
+    width: 120px;
     object-fit: cover;
-    margin-right: $sp-4;
+    margin-right: $sp-3;
+    flex-shrink: 0;
   }
 
   .anchor-heading {

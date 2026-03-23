@@ -3,7 +3,7 @@ title: Proposal Stage
 ---
 
 T Mar 31
-: Class meeting. <br><br> **presentation**{: .label .label-blue } Introductions! Everyone gets one slide.
+: Class meeting. Introductions! Everyone gets one slide.
 
 Th Apr 2
 : Optional class meeting. Course staff will be present. Form teams and discuss project ideas!

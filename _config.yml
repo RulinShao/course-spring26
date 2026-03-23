@@ -28,8 +28,6 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Pang Wei Koh:
-    - 'https://koh.pw'
 footer_content: 'Machine Learning Capstone, CSE 481M, Spring 2026. University of Washington. This site was built using <a href="https://kevinl.info/about/">Kevin Lin</a>&apos;s package <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a>, which is built on <a href="https://pmarsceill.github.io/just-the-docs/">Just the Docs</a>.'
 
 # Collections for website data
