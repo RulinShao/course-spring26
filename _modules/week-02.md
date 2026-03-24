@@ -3,7 +3,7 @@ title:  Execution Stage
 ---
 
 Th Apr 16
-: In-class working time and cross-discussions with course staff.
+: In-class office horus and working time.
 
 T Apr 21
 : Class meeting. <br><br> **presentation**{: .label .label-blue } First updates. Each team has 5 minutes and should not use more than 5 slides. <br><br> **deadline**{: .label .label-red } Report #4 is due at 11:59 pm. You should complete at least one strawman/baseline approach, run experiments, and set up the evaluation framework. Submit as an Ed post with a linked or attached pdf, 2-3 pages long.
