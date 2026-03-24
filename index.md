@@ -53,6 +53,8 @@ Your team designs a project around something you are interested in. The project 
 
 Throughout the course, teams are expected to write regular reports, including a project proposal and final report, and to give four five-minute presentations in class. All team members should speak at all presentations. The final presentation should also be separately recorded and uploaded to Youtube as a public or unlisted (your choice) video.
 
+Your project must be accompanied by open-source, reproducible code (and data, if applicable) that replicates all experiments in your final report. Code should be uploaded to Github and data to HuggingFace or another appropriate repository. Links to these resources must be included in the final report.
+
 Please see the [course schedule](../schedule) for deadlines and more details. 
 
 
