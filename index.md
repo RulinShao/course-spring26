@@ -43,9 +43,9 @@ Students will work in groups of three to complete an independent machine learnin
 
 This is a research-oriented capstone with minimal lectures. Most of our class time will be spent (1) discussing your project in small groups with course staff, and (2) presenting your project to the rest of the class, in order to give and receive technical advice and constructive feedback.
 
-We expect that students will have taken sufficient coursework in machine learning and related fields, so that you start the class with the foundational knowledge needed. 
+We expect that students will have taken sufficient coursework in machine learning and related fields, so that you start the class with the foundational knowledge needed to do research.
 Formally, students should have taken CSE 446/546 (Machine Learning) and at least another class in the area, such as CSE 493 S (Advanced Machine Learning), CSE 493G (Deep Learning), CSE 447, CSE 455, CSE 478, or CSE 427.
-
+You should be able to read research papers (with effort) in your chosen area and should also be familiar with the tools of the trade (e.g., common libraries used for that area).
 
 ## Project 
 
