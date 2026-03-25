@@ -6,7 +6,8 @@ T Mar 31 <br>(slides, <br>[intros](https://docs.google.com/presentation/d/1e3CQq
 : Class meeting. Introductions! Everyone gets one slide.
 
 Th Apr 2
-: Optional class meeting. Course staff will be present. Form teams and discuss project ideas!
+: Optional class meeting. Course staff will be present. Form teams and discuss project ideas! <br><br> **deadline**{: .label .label-red } Report #0 (ungraded) due at 11:59pm: Team name, list of members. Submit as an Ed post with the title "Team [team name]: [team member 1], [team member 2], [team member 3]". This is preliminary; teams can still change until Report #1 is submitted (on Tuesday April 7).
+
 
 T Apr 7
 : Class meeting. Form teams and discuss project ideas with your classmates. <br><br> **deadline**{: .label .label-red } Report #1 is due at 11:59 pm: Team name, list of members, top three project ideas you're excited about, minimal viable action plan for each with stretch goals. Submit as an Ed post with the title "Report #1: [team member 1], [team member 2], [team member 3]".
