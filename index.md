@@ -15,6 +15,8 @@ CSE 481M, Spring 2026
 {: .fs-5 .mb-0 }
 Tuesdays and Thursdays, 10am -- 11:20am, Allen (CSE) 305
 {: .fs-5 .mt-0 }
+[EdStem](https://edstem.org/us/courses/96256) | [Gradescope](https://www.gradescope.com/courses/1266737)
+{: .fs-5 .mt-1 }
 
 ---
 

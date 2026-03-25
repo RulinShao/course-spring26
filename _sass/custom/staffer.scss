@@ -1,7 +1,8 @@
 .staffer-grid {
   display: flex;
   flex-wrap: wrap;
-  gap: $sp-8;
+  column-gap: $sp-8;
+  row-gap: $sp-3;
 }
 
 .staffer {
