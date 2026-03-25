@@ -42,7 +42,7 @@ Th May 28
 : In-class office hours and working time.
 
 T Jun 2
-: No class. Use the time to finalize your report. <br><br> **deadline**{: .label .label-red } Final project report (#10) is due on Tuesday, Jun 2 at 11:59 pm. This should be a 7-9 page pdf, not including references, and structured like a research paper; follow the [ICLR style template](https://iclr.cc/Conferences/2026/AuthorGuide). At the end of the paper (not counted towards the page limit), include an author contributions section with one short paragraph per team member.
+: No class. Use the time to finalize your report. <br><br> **deadline**{: .label .label-red } Final project report (#10) is due on Tuesday, Jun 2 at 11:59 pm. This should be a 7-9 page pdf, not including references, and structured like a research paper; follow the [ICLR style template](https://iclr.cc/Conferences/2026/AuthorGuide). At the end of the paper (not counted towards the page limit), include an author contributions section with one short paragraph per team member. Submit as an Ed post with a linked or attached pdf.
 
 
 Th Jun 4
