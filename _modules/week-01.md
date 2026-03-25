@@ -2,7 +2,7 @@
 title: Proposal Stage
 ---
 
-T Mar 31
+T Mar 31 <br>(slides, <br>[intros](https://docs.google.com/presentation/d/1e3CQqttl4TjiLk7at6Db2nYJLib2OgAhjjl2umm20y8/edit?usp=sharing))
 : Class meeting. Introductions! Everyone gets one slide.
 
 Th Apr 2
