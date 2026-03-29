@@ -44,6 +44,8 @@ Th May 28
 T Jun 2
 : No class. Use the time to finalize your report. <br><br> **deadline**{: .label .label-red } Final project report (#10) is due on Tuesday, Jun 2 at 11:59 pm. This should be a 7-9 page pdf, not including references, and structured like a research paper; follow the [ICLR style template](https://iclr.cc/Conferences/2026/AuthorGuide). At the end of the paper (not counted towards the page limit), include an author contributions section with one short paragraph per team member. Submit as an Ed post with a linked or attached pdf.
 
-
 Th Jun 4
 : **presentation**{: .label .label-blue } Final project presentations (5 minutes per team, during normal class time). <br><br> **deadline**{: .label .label-red } The link to the Youtube video of your final presentation is due before class. Each team should post the link on Ed together with the abstract of your project (which you may copy from the final project report). <br><br> **deadline**{: .label .label-red } Report #11 is due at 11:59 pm. Individually write your reflections on the course project. What did you think went especially well? What could have been improved? What would you have done differently next time, both as a team and individually? These reports will only be seen by course staff.  Submit through Gradescope as a 2-page pdf.
+
+Note
+: We will not use any final exam slot.
