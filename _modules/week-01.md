@@ -2,7 +2,7 @@
 title: Proposal Stage
 ---
 
-T Mar 31 <br>(slides, <br>[intros](https://docs.google.com/presentation/d/1e3CQqttl4TjiLk7at6Db2nYJLib2OgAhjjl2umm20y8/edit?usp=sharing))
+T Mar 31 <br>([slides]({{ site.baseurl }}/assets/slides/CSE481M%20-%20Week%201.pdf), <br>[intros](https://docs.google.com/presentation/d/1e3CQqttl4TjiLk7at6Db2nYJLib2OgAhjjl2umm20y8/edit?usp=sharing))
 : Class meeting. Introductions! Everyone gets one slide.
 
 Th Apr 2
