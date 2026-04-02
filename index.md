@@ -92,6 +92,7 @@ Students are encouraged to apply for free cloud compute:
 - **Google Cloud:** $300 in free credits for [new customers](https://cloud.google.com/free).
 - **Google Colab Pro:** Available for [higher education](https://blog.google/products-and-platforms/products/education/colab-higher-education/).
 - **Microsoft Azure:** $100 of credits for [students](https://azure.microsoft.com/en-us/free/students).
+- **UW Tillicum:** $250 of credits for [UW students](https://depts.washington.edu/uwrcc/tillicum/). This is a good option because Tillicum costs are already heavily subsidized by UW.
 
 In addition, students may use other external compute resources that they have access to (e.g., from their research labs if they are part of one). 
 
@@ -119,7 +120,8 @@ We will distribute a small amount of additional Google Cloud credits at the end 
 
 **Can I use a project that I've already been working on, and/or a project that I'm working on with another lab outside this class?** Your course project must be started from scratch and worked on only by you and your team members. You are very welcome to seek advice and feedback from other researchers, as well as to use compute/hardware available from other labs. However, all coding and writing must be done by you and your team members. We understand that some students already have ongoing projects and are already embedded with other research groups; these projects are not suitable for our class as our goal is to take students independently through the entire project lifecycle.
 
-**What format should the reports be in?** See the [course schedule](../schedule) for details on which reports should be posted on Ed vs. Gradescope. PDF reports must be typeset.
+**What format should the reports be in?** See the [course schedule](../schedule) for details on which reports should be posted on Ed and/or Gradescope. PDF reports must be typeset.
+On Gradeschope, please submit only one assignment per team and make sure you add all your team members to the assignment. 
 
 **What are the cross-discussions with course staff in the schedule?** Each team will be assigned to one TA and will meet with them weekly throughout the class. During the cross-discussion sessions, teams will meet with the other TA to get a different perspective on their project.
 
