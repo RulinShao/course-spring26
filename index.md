@@ -57,7 +57,7 @@ Throughout the course, teams are expected to write regular reports, including a 
 
 Your project must be accompanied by open-source, reproducible code (and data, if applicable) that replicates all experiments in your final report. Code should be uploaded to Github and data to HuggingFace or another appropriate repository. Links to these resources must be included in the final report.
 
-Please see the [course schedule](../schedule) for deadlines and more details. 
+Please see the [course schedule](schedule) for deadlines and more details. 
 
 
 ## Classes
@@ -119,7 +119,7 @@ We will distribute a small amount of additional Google Cloud credits at the end 
 
 **Can I use a project that I've already been working on, and/or a project that I'm working on with another lab outside this class?** Your course project must be started from scratch and worked on only by you and your team members. You are very welcome to seek advice and feedback from other researchers, as well as to use compute/hardware available from other labs. However, all coding and writing must be done by you and your team members. We understand that some students already have ongoing projects and are already embedded with other research groups; these projects are not suitable for our class as our goal is to take students independently through the entire project lifecycle.
 
-**What format should the reports be in?** See the [course schedule](../schedule) for details on which reports should be posted on Ed vs. Gradescope. PDF reports must be typeset.
+**What format should the reports be in?** See the [course schedule](schedule) for details on which reports should be posted on Ed vs. Gradescope. PDF reports must be typeset.
 
 **What are the cross-discussions with course staff in the schedule?** Each team will be assigned to one TA and will meet with them weekly throughout the class. During the cross-discussion sessions, teams will meet with the other TA to get a different perspective on their project.
 
