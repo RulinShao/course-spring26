@@ -94,9 +94,12 @@ Students are encouraged to apply for free cloud compute:
 - **Microsoft Azure:** $100 of credits for [students](https://azure.microsoft.com/en-us/free/students).
 - **UW Tillicum:** $250 of credits for [UW students](https://depts.washington.edu/uwrcc/tillicum/). This is a good option because Tillicum costs are already heavily subsidized by UW.
 
-In addition, students may use other external compute resources that they have access to (e.g., from their research labs if they are part of one). 
-
 We will distribute a small amount of additional Google Cloud credits at the end of the second week. 
+
+In addition, students may use other external compute resources that they have access to (e.g., from their research labs if they are part of one).
+
+Students may also use the UW CSE 'tomago' server, which has a limited number of older GPUs (RTX 6000s). To do so, SSH to `tomago.cs.washington.edu`. If you're off-campus, use Husky OnNet first. Store your data in `/local1`, creating a folder for yourself there first. There isn't a job scheduler on that server so just run your executable programs directly.
+
 
 
 ## Other course policies
