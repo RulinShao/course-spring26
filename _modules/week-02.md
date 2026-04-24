@@ -9,31 +9,31 @@ T Apr 21
 : Class meeting. <br><br> **presentation**{: .label .label-blue } First updates. Each team has 5 minutes and should not use more than 5 slides. <br><br> **deadline**{: .label .label-red } Report #4 is due at 9:00 am. You should complete at least one strawman/baseline approach, run experiments, and set up the evaluation framework. Submit as an Ed post with a linked or attached pdf, 2-3 pages long, and enter on Gradescope. 
 
 Th Apr 23
-: In-class office hours and working time. <br><br> **deadline**{: .label .label-red } Report #5 is due at 9:00 am.  You will individually report on your team's effectiveness, including a summary of your own, and each team member's contributions so far.  These reports will only be seen by course staff.  Submit through Gradescope as a 1-page pdf.
+: In-class office hours and working time. <br><br> **deadline**{: .label .label-red } Report #5 is due at 10:00 am.  You will individually report on your team's effectiveness, including a summary of your own, and each team member's contributions so far.  These reports will only be seen by course staff.  Submit through Gradescope as a 1-page pdf.
 
 T Apr 28
 : Class meeting. In-class working time and cross-discussions with course staff.
 
 Th Apr 30
-: In-class office hours and working time. <br><br> **deadline**{: .label .label-red } Report #6 is due at 9:00 am. You should have completed multiple strawman/baseline approaches, recorded their performance, and performed error analysis; you should report on your first advanced solution attempt. What did you try? Are there any exciting results? Any confusing results? What are the failure modes? What will you try next? Submit as an Ed post with a linked or attached pdf, 2-3 pages long, and enter on Gradescope. 
+: In-class office hours and working time. <br><br> **deadline**{: .label .label-red } Report #6 is due at 10:00 am. You should have completed multiple strawman/baseline approaches, recorded their performance, and performed error analysis; you should report on your first advanced solution attempt. What did you try? Are there any exciting results? Any confusing results? What are the failure modes? What will you try next? Submit as an Ed post with a linked or attached pdf, 2-3 pages long, and enter on Gradescope. 
 
 T May 5
 : Class meeting. <br><br> **presentation**{: .label .label-blue } Second updates. Each team has 5 minutes and should not use more than 5 slides. 
 
 Th May 7
-: In-class office hours and working time. <br><br> **deadline**{: .label .label-red } Report #7 is due at 9:00 am. You should continue your advanced solution attempt, run more experiments, do more error analysis, and sketch out the next action plan. Submit as an Ed post with a linked or attached pdf, 2-3 pages long, and enter on Gradescope. 
+: In-class office hours and working time. <br><br> **deadline**{: .label .label-red } Report #7 is due at 10:00 am. You should continue your advanced solution attempt, run more experiments, do more error analysis, and sketch out the next action plan. Submit as an Ed post with a linked or attached pdf, 2-3 pages long, and enter on Gradescope. 
 
 T May 12
 : Guest lectures on current AI research. 
 
 Th May 14
-: In-class office hours and working time. <br><br> **deadline**{: .label .label-red } Report #8 is due at 9:00 am. You should report on your second/continued advanced solution attempts. Submit as an Ed post with a linked or attached pdf, 2-3 pages long, and enter on Gradescope. 
+: In-class office hours and working time. <br><br> **deadline**{: .label .label-red } Report #8 is due at 10:00 am. You should report on your second/continued advanced solution attempts. Submit as an Ed post with a linked or attached pdf, 2-3 pages long, and enter on Gradescope. 
 
 T May 19
 : Class meeting. <br><br> **presentation**{: .label .label-blue } Third updates. Each team has 5 minutes and should not use more than 5 slides. 
 
 Th May 21
-: In-class office hours and working time. <br><br> **deadline**{: .label .label-red } Report #9 is due at 9:00 am.  You will individually report on your team's effectiveness, including a summary of your own, and each team member's contributions so far.  These reports will only be seen by course staff.  Submit through Gradescope as a 1-page pdf.
+: In-class office hours and working time. <br><br> **deadline**{: .label .label-red } Report #9 is due at 10:00 am.  You will individually report on your team's effectiveness, including a summary of your own, and each team member's contributions so far.  These reports will only be seen by course staff.  Submit through Gradescope as a 1-page pdf.
 
 T May 26
 : Class meeting. In-class working time and cross-discussions with course staff.
